@@ -1,3 +1,4 @@
 aoc
 *.o
 *.d
+objects/*d
